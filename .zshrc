@@ -9,13 +9,13 @@ export ZSH=/Users/jerzy/.oh-my-zsh
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 #
 # ZSH_THEME="norm"
-# ZSH_THEME= 'gozilla'
+ZSH_THEME="gozilla"
 # ZSH_THEME="duellj"
 # ZSH_THEME="kiwi"
 # ZSH_THEME="af-magic"
 # ZSH_THEME="agnoster"
 # ZSH_THEME="avit"
-ZSH_THEME="agnoster"
+# ZSH_THEME="agnoster"
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
