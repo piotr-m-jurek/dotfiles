@@ -90,6 +90,26 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#
+###############
+### ALIASES ###
+###############
+alias tsa="cd ~/dev/tsa/tsa-web-ui"
+alias elm-new=newElm
+
+newElm() {
+    if [ $# -eq 0 ]
+    then
+        echo "No arguments supplied"
+        exit 1
+    fi
+    mkdir "$1"
+    cd $1
+    git clone git@github.com:piotr-m-jurek/elm-live-boilerplate.git .
+    code .
+
+}
+
 export PATH="$HOME/Library/Haskell/bin:$PATH"
 
 export N_PREFIX="$HOME/n"; [[ :$PATH: == *":$N_PREFIX/bin:"* ]] || PATH+=":$N_PREFIX/bin"  # Added by n-install (see http://git.io/n-install-repo).
