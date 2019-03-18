@@ -94,21 +94,14 @@ source $ZSH/oh-my-zsh.sh
 ###############
 ### ALIASES ###
 ###############
+
 alias tsa="cd ~/dev/tsa/tsa-web-ui"
-alias elm-new=newElm
+alias todo="nvim ~/dev/TODO.md"
 
-newElm() {
-    if [ $# -eq 0 ]
-    then
-        echo "No arguments supplied"
-        exit 1
-    fi
-    mkdir "$1"
-    cd $1
-    git clone git@github.com:piotr-m-jurek/elm-live-boilerplate.git .
-    code .
 
-}
+###############
+### ALIASES ###
+###############
 
 export PATH="$HOME/Library/Haskell/bin:$PATH"
 
