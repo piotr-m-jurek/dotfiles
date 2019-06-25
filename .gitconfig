@@ -2,7 +2,7 @@
 
 [user]
 	email = piotr.m.jurek@gmail.com
-	name = Jerzy
+	name = Piotr Małecki-Jurek
 
 [alias]
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
@@ -20,3 +20,8 @@
 
 [alias]
 l = "!source ~/.githelpers && pretty_git_log"
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true

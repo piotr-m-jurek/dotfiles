@@ -10,6 +10,7 @@ export ZSH=/Users/jerzy/.oh-my-zsh
 #
 # ZSH_THEME="norm"
 ZSH_THEME="gozilla"
+# ZSH_THEME="spaceship"
 # ZSH_THEME="duellj"
 # ZSH_THEME="kiwi"
 # ZSH_THEME="af-magic"
