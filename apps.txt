@@ -1,0 +1,120 @@
+1Password 7.app
+Ableton Live 9 Lite.app
+Android File Transfer.app
+App Store.app
+AppCleaner.app
+Arduino.app
+AudiotekaSplit.app
+Automator.app
+Backup and Sync.app
+Balsamiq Mockups 3.app
+Be Focused.app
+Bear.app
+Books.app
+Caffeine.app
+Calculator.app
+Calendar.app
+Chess.app
+Cisco
+Contacts.app
+DXOOpticsPro11.app
+Dash.app
+Dashboard.app
+Day One.app
+Dictionary.app
+Discord.app
+Docker.app
+Dropbox.app
+Emacs
+FaceTime.app
+Figma.app
+Firefox Developer Edition.app
+Firefox.app
+Flux.app
+Font Book.app
+GOG Galaxy.app
+GarageBand.app
+GitHub Desktop.app
+GitKraken.app
+Google Chrome Canary.app
+Google Chrome.app
+Google Drive.app
+Grammarly.app
+Harvest.app
+Harvest.localized
+Hex Fiend.app
+Home.app
+Hyper.app
+Image Capture.app
+Insomnia.app
+Karabiner-Elements.app
+Karabiner-EventViewer.app
+KeeWeb.app
+Keynote.app
+LastPass.app
+Launchpad.app
+LibreOffice.app
+Mail.app
+Maps.app
+Messages.app
+Mini Calendar.app
+Mission Control.app
+Monosnap.app
+Mounty.app
+MuseScore 2.app
+Native Access.app
+Native Instruments
+News.app
+NordVPN IKE.app
+Notes.app
+Notion.app
+Nucleo.app
+Numbers.app
+OmniDiskSweeper.app
+Opera.app
+Pages.app
+Photo Booth.app
+Photos.app
+Postman.app
+Preview.app
+QNapi.app
+QUAD-CAPTURE Control Panel.app
+QuickTime Player.app
+Rack.app
+Reminders.app
+Roland
+Safari.app
+Sblack.app
+Seafile Client.app
+Siri.app
+Sketch.app
+Slack.app
+SourceTree.app
+Spacemacs
+Spectacle.app
+Spotify.app
+Steam.app
+Stickies.app
+Stocks.app
+System Preferences.app
+TeamViewer.app
+TextEdit.app
+Time Machine.app
+Tor Browser.app
+Transmission.app
+Typora.app
+Unified Remote.app
+Utilities
+VLC.app
+VirtualBox.app
+Visual Studio Code.app
+VoiceMemos.app
+Voxelizer.app
+WebStorm.app
+WhatsApp.app
+Xcode.app
+Zeplin.app
+calibre.app
+google-cloud-sdk
+iTerm.app
+iTunes.app
